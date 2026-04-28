@@ -6,5 +6,5 @@ Right now I am focusing on **Web** CTFs.
 
 ## 📚 Platforms
 
-- [OliCyber 🇮🇹](./olicyber/)
+- [OliCyber 🇮🇹](./Olicyber/)
   
